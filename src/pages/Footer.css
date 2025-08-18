@@ -1,0 +1,8 @@
+.footer{background:#0f2d23;color:#cfeae2;margin-top:40px}
+.foot-grid{display:grid;gap:20px;padding:32px 0}
+.foot-grid h4{margin:0 0 10px}
+.foot-grid h5{margin:0 0 8px}
+.foot-grid ul{list-style:none;margin:0;padding:0}
+.foot-grid a{color:#cfeae2}
+.copy{border-top:1px solid #164a3a;padding:12px 0;color:#9ec8bd;font-size:.9rem}
+@media (min-width:900px){.foot-grid{grid-template-columns:2fr 1fr 1fr}}
